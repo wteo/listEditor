@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "codechallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.test.js"
+  },
+  "keywords": [],
+  "author": "Wendy",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "nodemon": "^2.0.16"
+  }
+}
